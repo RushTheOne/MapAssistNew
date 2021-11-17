@@ -1,9 +1,8 @@
 # MapAssist
 
-
 THE 'MapAssist' TOOL AND CONTENTS THEREIN WERE INTENDED FOR INFORMATIONAL AND LEARNING PURPOSES ONLY.
 
-Join the discussion: https://discord.gg/5b2B7QrVqa
+Join the discussion: https://discord.gg/2ehpxyS3YZ
 
 Feel free to contribute a pull request with new features or fixes, the code is under GPL so make sure to please follow the license.
 
